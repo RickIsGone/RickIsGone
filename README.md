@@ -4,6 +4,7 @@ CS Student
 currently working on:  
 
 - [Gears game engine](https://github.com/RickIsGone/Gears-game-engine)
+- [bin2cpp](https://github.com/RickIsGone/bin2cpp)
 
 # Tech Stack
 
