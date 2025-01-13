@@ -3,6 +3,7 @@
 CS Student  
 currently working on:  
 
+- [Tungsten](https://github.com/RickIsGone/tungsten)
 - [Gears game engine](https://github.com/RickIsGone/Gears-game-engine)
 - [bin2cpp](https://github.com/RickIsGone/bin2cpp)
 
