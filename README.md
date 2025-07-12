@@ -17,6 +17,3 @@ currently working on:
 ![](https://github-readme-stats.vercel.app/api?username=RickIsGone&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RickIsGone&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RickIsGone&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=RickIsGone&icon=2&color=2)](https://visitcount.itsvg.in)
