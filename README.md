@@ -65,9 +65,7 @@ currently working on:
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RickIsGone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<img src="https://streak-stats.demolab.com?user=RickIsGone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 ###
 
@@ -79,8 +77,7 @@ currently working on:
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RickIsGone.RickIsGone&"  />
-</div>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=RickIsGone.RickIsGone&"  />
 
 ###
