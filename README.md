@@ -1,4 +1,6 @@
-<h1 align="center">About me</h1>
+<h1 align="left">About me</h1>
+
+###
 
 CS Student  
 currently working on:  
@@ -71,3 +73,5 @@ currently working on:
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RickIsGone.RickIsGone&"  />
 </div>
+
+###
