@@ -66,7 +66,8 @@ currently working on:
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RickIsGone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=RickIsGone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> <br>
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7375&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"/>  
 </div>
 
 ###
