@@ -4,11 +4,8 @@
 
 CS Student  
 currently working on:  
-- [Tungsten](https://github.com/RickIsGone/tungsten)
-- [Tungsten Sandbox](https://github.com/RickIsGone/tungsten-sandbox)
-- [Gears game engine](https://github.com/RickIsGone/Gears-game-engine)
-- [bin2cpp](https://github.com/RickIsGone/bin2cpp)
-
+- [Tungsten](https://github.com/RickIsGone/tungsten) (currently dropped, might return on it i the future)
+- [BadSQL](https://github.com/RickIsGone/BadSQL)
 ###
 
 <h1 align="left">Tech stack</h1>
